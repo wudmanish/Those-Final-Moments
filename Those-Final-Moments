@@ -9,15 +9,62 @@ I light appears in front you.
 
 You wake up in a cold sweat.
 Thank god it’s all a dream.
-However, not all is right. A dark figure stands by your bed.
+However, all is not right. The dark figure stands by your bed.
+It vanishes.
 It was not a dream. There is no denying it, you are going to die tonight.
 
-You start to think about what means most to you. You think about your mother and father. 
-
+What about all of you hopes and dreams? What have you been educating yourself for all your life?
 You were given a lot of hope.
 All for it to be ripped away, tearing you in the process…
 
+You’re still comprehending the severity of the situation. 
+
 You start to panic, but you attempt to calm yourself down. You attempt to collect your thoughts and accept the situation.
+
+Sure 
+
+
+You start to think about what means most to you. You think about your mother and father. 
+
+However, there’s no denying spending time with your friends would also be a viable option. You’ve seen them at their weakest, and you’ve been through a lot together in the past year. However, they have never been ones for emotional breakdowns. Maybe a party would be a better idea
+
+It’s the day before exams. All of your friends including you were hard at working studying for exams for  the past week. You may never get to see them again though. You think of all the experiences you’ve been through together. It’s only been a year, but your friendship has been
+You haven’t talked to your sister in years… what were you fighting about again? Anyway it seemed very important at the time. It may be a good idea to make peace with her 
+before you have departed from this life.
+
+puts “You dial up her number. You know your sister will take the phone call as a victory” puts “for her. However, you’re going to die. Losing an argument will be a trivial victory” puts “by tomorrow morning.”
+
+puts You call her up: *bzzt*
+puts *bzzt*
+puts No answer…
+puts You call again.
+puts *bzzt* *click*
+puts Look he came crawling back.
+puts You roll your eyes
+
+“I’m sorry”
+Didn’t hear you. Can you repeat that?
+	You: (muttered)  i’m sorry
+Sister: Louder!
+	You: I’M SORRY
+Sister: Heard you the first time. To be honest, I don’t even remember what the argument was about. Probably something small. You still probably wronged me, so I’m glad we could make repentance. I forgive you.
+“Ready for your apology”
+She hangs up on you. Nice job.
+*Csssh* Domino’s pizza, how may I help you?”
+Her: I’d like a genuine apology. Extra suck up. 
+
+It may be time for you to become holy. You’re parents never really pushed religion on you as a child, but in order to reassure your fear of death, you could choose to believe in an afterlife. 
+
+You decide to create your own religion. After all, you know something or someone told you that you were going to die. You’re more qualified to make a religion than most people. But how are you going to manage it? You don’t have the money?
+
+You ride out to time square. You find a piece of cardboard and start attracting attention with your unusually deep vocal cords. Many people pull out their phones and film you. Sure you're making a fool of yourself, but you are spreading the word.
+
+You decide to take advantage of the situation by putting down a tin can to collect cash in. By the end of the day you’ve collected 
+
+You’ve collected quite a following.
+
+You pray to the elusive hooded figure, promising life after death.
+You feel 
 
 Class Time: 
 Object: 8:00AM 
@@ -41,9 +88,20 @@ Class: Talk to those closest to you
 “”
 File 3:
 Scene 2.1: Object: -  Call your Parents
-Convince them you’re going to die
+You start dialing in the numbers. With each press on your phone you feel more tense. You hit the call button… here goes nothing
+???: Hello?
+	You freeze up after hearing your mother’s voice on the other end.
+Convince her you’re going to die
+	You: Mom, I’m going to die
+	Mother: What!? What’s happening? Are you being serious?
+	You: Yes. Tomorrow you will never see me again. I don’t know what’s happening, but please trust me.
+	Mother: 
 Ask to hang out with them urgently without mentioning death
+	Thankfully, your parents live two - three hours away. You don’t want to scare them with the news.
+	You: Hey mom. Do you want to spend some time together later?
+
 Talk to them normally
+	You
 End
 1 Satisfactory
 Scene 2.2: Object: -  Call your sister (Objective: Resolve the conflict)
@@ -53,6 +111,7 @@ Scene 2.2: Object: -  Call your sister (Objective: Resolve the conflict)
 End
 1 Satisfactory or 1 Unsatisfactory depending on route
 Scene 2.3: Object: -  Talk to your friends
+
 Convince them you’re going to die
 Beg for his support
 Give up
@@ -73,6 +132,7 @@ End
 Scene 2.5: Object  -  Win something
 Transfer to win something file
 Find Local competitions in the area
+You’ve always wanted to be the best at something. N
 Writing
 Math
 End
@@ -156,4 +216,28 @@ end
 2 Unsatisfactory = Object: Unsatisfied ending
 “”
 
-end
+End
+
+Puts “ You drive out of the city to view your final sunset”
+Puts “ You think of all that could’ve been,”
+Puts “ But  instead you wasted these last final moments”
+Puts “ being as trivial and unimportant as you have always been”
+Puts “THE END
+
+Puts “ You drive out of the city to view your final sunset”
+Puts “ You think of all that could’ve been,”
+Puts “ But you did make something of these final moments.”
+Puts “\n”
+puts “Yet…”
+puts “You still fear death”
+puts “The sunset seems extra spectacular tonight.”
+puts “But the feeling of dread is too much to bear”
+puts *Bzzt*
+Puts “It’s your sister. She’s sent you a text”
+Puts “It’s a picture of a baby boy you didn’t even know she had”
+Puts “\n”
+Puts “This makes you so damn happy.”
+Puts “Life goes on”
+Puts “People live and die”
+Puts “Time to come to the same fate as the majority  of human beings have already succumbed to”
+Puts “THE END
